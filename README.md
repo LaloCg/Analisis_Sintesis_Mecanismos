@@ -8,6 +8,19 @@ Este repositorio contiene una colección de scripts en **MATLAB** desarrollados 
 
 ---
 
+## 📄 Documentación y Reportes
+
+Además de los códigos fuente, este repositorio incluye el archivo **`Documentos.zip`**.
+
+Dentro de este archivo comprimido encontrarás los **reportes detallados de los problemas resueltos**, los cuales contienen:
+* El planteamiento teórico y matemático de cada mecanismo.
+* Diagramas cinemáticos y esquemas.
+* La interpretación de las gráficas y resultados obtenidos con los scripts.
+
+---
+
+---
+
 ## 📂 Descripción de los Scripts
 
 El repositorio está organizado por tipo de análisis y topología del mecanismo:
