@@ -19,8 +19,6 @@ Dentro de este archivo comprimido encontrarás los **reportes detallados de los 
 
 ---
 
----
-
 ## 📂 Descripción de los Scripts
 
 El repositorio está organizado por tipo de análisis y topología del mecanismo:
